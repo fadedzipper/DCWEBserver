@@ -80,7 +80,7 @@ class  DeviceConfSerialzer(serializers.ModelSerializer):
 
         model = models.DeviceConf
         fields = '__all__'
-        read_only_fields = ['device_id','update_status','update_time','device_update_time']
+        read_only_fields = ['device_id','update_status','update_time','device_update_time', 'city', 'is_bind', 'grid']
 
     def update(self, instance, validated_data):
 
