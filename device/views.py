@@ -341,14 +341,14 @@ class GetAQIView(views.APIView):
             d["IAQIO3"] = getAQI(d["O3"], "O3")
 
          #均值存入AQIavglist
-            AQIavglist = [d["PM25"],d["PM10"],d["SO2"],d["NO2"],d["CO"],d["O3"]]
+        AQIavglist = [d["PM25"],d["PM10"],d["SO2"],d["NO2"],d["CO"],d["O3"]]
 
         # 计算平均AQI
-            AQIlist =[d["IAQIPM25"],d["IAQIPM10"],d["IAQISO2"],d["IAQINO2"],d["IAQICO"],d["IAQIO3"]]
+        AQIlist = [d["IAQIPM25"],d["IAQIPM10"],d["IAQISO2"],d["IAQINO2"],d["IAQICO"],d["IAQIO3"]]
         type_list = ['PM25', 'PM10', 'SO2', 'NO2', 'CO', 'O3']
         type_key =[1,2,3,4,5,6]
         ranking = 1
-        dicttype = dict(zip(type_key,AQIlist))
+        dicttype = dict(zip(type_key, AQIlist))
         listkey = ["ranking", "datatype", "AQI", "AvgAQI"]
         dictres = []
 
