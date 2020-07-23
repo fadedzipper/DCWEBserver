@@ -332,6 +332,7 @@ class GetAQIView(views.APIView):
                                           CO=Avg('CO'), O3=Avg('O3')) \
             .values('device_id', 'PM25', 'PM10', 'SO2', 'NO2', 'CO', 'O3')
         data = data.filter(device_id=1)
+        d = {}
         for d in data:
             d["IAQIPM25"] = getAQI(d["PM25"], "PM25")
             d["IAQIPM10"] = getAQI(d["PM10"], "PM10")
