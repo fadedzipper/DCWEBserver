@@ -99,7 +99,7 @@ WSGI_APPLICATION = 'drfdemo02.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'dcs3',
+        'NAME': 'dcs03',
         'USER':'root',
         'PASSWORD':'123456',
         "POST":'3306',
