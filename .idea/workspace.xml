@@ -1,160 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf73b1af-721e-4c55-a8dc-dbce5fc1d805" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/redoc/redoc-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-dist/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/autocomplete.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/responsive_rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/vendor/select2/LICENSE-SELECT2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-no.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-viewlink.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/search.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/autocomplete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/cancel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/change_form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/popup_response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/immutable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/insQ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/redoc-init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/redoc-old/redoc.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/redoc/redoc.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-dist/absolute-path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-dist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-dist/oauth2-redirect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-dist/swagger-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/swagger-ui-init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/drf-yasg/url-polyfill.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/css/bootstrap-tweaks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/css/font-awesome-4.0.3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/docs/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/docs/css/highlight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/rest_framework/docs/css/jquery.json-view.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/device/views.py" afterPath="$PROJECT_DIR$/device/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drfdemo02/settings.py" afterPath="$PROJECT_DIR$/drfdemo02/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grid/views.py" afterPath="$PROJECT_DIR$/grid/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/views.py" afterPath="$PROJECT_DIR$/log/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/permission/permissions.py" afterPath="$PROJECT_DIR$/permission/permissions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report/views.py" afterPath="$PROJECT_DIR$/report/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/views.py" afterPath="$PROJECT_DIR$/user/views.py" />
-    </list>
+    <list default="true" id="cf73b1af-721e-4c55-a8dc-dbce5fc1d805" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -200,16 +47,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/413264244/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178250">
-              <caret line="5750" column="6" lean-forward="false" selection-start-line="5750" selection-start-column="6" selection-end-line="5750" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/report/views.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -250,21 +87,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uwsgi.ini" pinned="false" current-in-tab="false">
+      <file leaf-file-name="uwsgi.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uwsgi.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="589">
+              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="permissions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="permissions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/permission/permissions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="217">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uwsgi.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uwsgi.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -727,6 +574,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -734,8 +582,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45017183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3991131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45017183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="manage.py@drfdemo02" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32616082" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -775,14 +623,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/drfdemo02/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="103" column="21" lean-forward="false" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -1030,14 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uwsgi.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/group/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -1098,8 +930,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/permission/permissions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="217">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uwsgi.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uwsgi.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
