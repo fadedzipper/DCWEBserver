@@ -6,6 +6,8 @@ from .models import Grid
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.generics import ListAPIView,CreateAPIView,DestroyAPIView,UpdateAPIView
+from rest_framework import permissions
+from permission.permissions import ModelPermission
 
 from .serializers import GridSerizalizer
 
@@ -79,6 +81,7 @@ class MyPagination(PageNumberPagination):
 #全家桶
 class GridModeViewSet(viewsets.ModelViewSet):
     serializer_class = GridSerizalizer
+    permission_classes = (permissions.IsAuthenticated, ModelPermission, )
     pagination_class = MyPagination
     queryset = Grid.objects.all().order_by('id')
     filter_backends = [DjangoFilterBackend,filters.SearchFilter]

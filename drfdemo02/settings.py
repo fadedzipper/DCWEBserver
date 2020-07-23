@@ -156,6 +156,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
 SWAGGER_SETTINGS = {
@@ -186,9 +189,9 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.TokenAuthentication',
     ),
     # 设置全局权限检测类(项目一开始不需要添加权限，为方便测试，先注释掉了)
-    # "DEFAULT_PERMISSION_CLASSES": (
-    #        "rest_framework.permissions.IsAuthenticated",  # 判断是否登陆
-    #     ),
+    "DEFAULT_PERMISSION_CLASSES": (
+           "rest_framework.permissions.IsAuthenticated",  # 判断是否登陆
+        ),
 
     # 渲染类 （为保持接口返回统一，重写了DRF渲染类）
     "DEFAULT_RENDERER_CLASSES": (

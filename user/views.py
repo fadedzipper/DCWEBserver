@@ -10,6 +10,8 @@ from rest_framework.decorators import action
 from drf_yasg.utils import swagger_auto_schema
 from rest_framework_simplejwt.views import TokenObtainPairView
 from log.utils import  addlog
+from rest_framework import permissions
+from permission.permissions import ModelPermission
 
 
 
@@ -36,6 +38,7 @@ class UserFilterSet(FilterSet):
 class UserViewset(viewsets.ModelViewSet):
 
     pagination_class = MyPagination
+    permission_classes = (permissions.IsAuthenticated, ModelPermission, )
     # serializer_class = serializers.UserSerializer
     queryset = models.User.objects.all().order_by('id')
     filter_backends = (DjangoFilterBackend,filters.SearchFilter)

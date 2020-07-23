@@ -3,7 +3,7 @@ from rest_framework.permissions import BasePermission
 
 class ModelPermission(BasePermission):
 
-    massage = "权限验证失败，没有对应权限"
+    message = "权限验证失败，没有对应权限"
 
     def has_permission(self, request, view):
 
@@ -15,17 +15,18 @@ class ModelPermission(BasePermission):
         if user.is_superuser:
             return True
 
-        if hasattr(view,'get_model_perms_conf'):
-
-            perms = view.get_model_perms_conf()
-        else:
-            perms = ()
+        return False
+        # if hasattr(view,'get_model_perms_conf'):
+        #
+        #     perms = view.get_model_perms_conf()
+        # else:
+        #     perms = ()
 
         # print(perms)
         # print(user.get_all_permissions())
         # print(user.has_perms(perms))
 
-        return user.has_perms(perms)
+        # return user.has_perms(perms)
 
 
 class ObjectPermission(BasePermission):
